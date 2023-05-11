@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 5a9d0b5dbcefb2499ba4a1d5a413fdf3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DecorationSurfaces
+    100004: knob_01_D_17
+    100006: knob_01_D_17 1
+    100008: knob_01_D_18
+    100010: knob_01_D_18 1
+    100012: knob_01_D_19
+    100014: knob_01_D_19 1
+    100016: knob_01_D_20
+    100018: knob_01_D_20 1
+    100020: knob_01_D_21
+    100022: knob_01_D_21 1
+    100024: knob_01_D_22
+    100026: knob_01_D_22 1
+    100028: knob_01_D_23
+    100030: knob_01_D_23 1
+    100032: knob_01_D_24
+    100034: knob_01_D_24 1
+    100036: Knobs
+    100038: Knobs_loc
+    100040: Shell
+    100042: tube_02_D_7
+    100044: tube_02_D_7 1
+    100046: tube_02_D_8
+    100048: tube_02_D_8 1
+    100050: tube_02_D_9
+    100052: tube_02_D_9 1
+    100054: Tubes
+    100056: Tubes_loc
+    100058: VME_11003001_LEG_Back_1
+    100060: VME_11003001_LEG_Front_1
+    400000: //RootNode
+    400002: DecorationSurfaces
+    400004: knob_01_D_17
+    400006: knob_01_D_17 1
+    400008: knob_01_D_18
+    400010: knob_01_D_18 1
+    400012: knob_01_D_19
+    400014: knob_01_D_19 1
+    400016: knob_01_D_20
+    400018: knob_01_D_20 1
+    400020: knob_01_D_21
+    400022: knob_01_D_21 1
+    400024: knob_01_D_22
+    400026: knob_01_D_22 1
+    400028: knob_01_D_23
+    400030: knob_01_D_23 1
+    400032: knob_01_D_24
+    400034: knob_01_D_24 1
+    400036: Knobs
+    400038: Knobs_loc
+    400040: Shell
+    400042: tube_02_D_7
+    400044: tube_02_D_7 1
+    400046: tube_02_D_8
+    400048: tube_02_D_8 1
+    400050: tube_02_D_9
+    400052: tube_02_D_9 1
+    400054: Tubes
+    400056: Tubes_loc
+    400058: VME_11003001_LEG_Back_1
+    400060: VME_11003001_LEG_Front_1
+    2100000: lambert1
+    2300000: knob_01_D_17
+    2300002: knob_01_D_18
+    2300004: knob_01_D_19
+    2300006: knob_01_D_20
+    2300008: knob_01_D_21
+    2300010: knob_01_D_22
+    2300012: knob_01_D_23
+    2300014: knob_01_D_24
+    2300016: Shell
+    2300018: tube_02_D_7
+    2300020: tube_02_D_8
+    2300022: tube_02_D_9
+    2300024: VME_11003001_LEG_Back_1
+    2300026: VME_11003001_LEG_Front_1
+    3300000: knob_01_D_17
+    3300002: knob_01_D_18
+    3300004: knob_01_D_19
+    3300006: knob_01_D_20
+    3300008: knob_01_D_21
+    3300010: knob_01_D_22
+    3300012: knob_01_D_23
+    3300014: knob_01_D_24
+    3300016: Shell
+    3300018: tube_02_D_7
+    3300020: tube_02_D_8
+    3300022: tube_02_D_9
+    3300024: VME_11003001_LEG_Back_1
+    3300026: VME_11003001_LEG_Front_1
+    4300000: Shell
+    4300002: knob_01_D_20
+    4300004: knob_01_D_18
+    4300006: knob_01_D_17
+    4300008: knob_01_D_22
+    4300010: knob_01_D_21
+    4300012: knob_01_D_23
+    4300014: knob_01_D_19
+    4300016: knob_01_D_24
+    4300018: tube_02_D_9
+    4300020: tube_02_D_7
+    4300022: tube_02_D_8
+    4300024: VME_11003001_LEG_Front_1
+    4300026: VME_11003001_LEG_Back_1
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

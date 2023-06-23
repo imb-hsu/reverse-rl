@@ -1,6 +1,6 @@
 ## Reverse RL Implementation and Brick Assembly Simulation
 
-This repository is complementary to a pending publication.
+This repository is complementary to the Paper "Using Reverse Reinforcement Learning for Assembly Tasks" accepted at the 2023 PRL Workshop – Bridging the Gap Between AI Planning and Reinforcement Learning at IJCAI. 
 
 ### Reverse RL
 
